@@ -1,0 +1,26 @@
+.header__container{
+    background-color: var(---cor-de-fundo-header);
+    padding: 12em;
+    background-image: url(/imagens/download\ \(76\).1.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+    
+}
+
+.img__header{
+    padding-left: 68%;
+}
+
+.ttl__header{
+  margin-left: 25%;
+  font-family: var(---fonte-do-header);
+  font-size: 2em;
+  margin-bottom: 5px;
+
+}
+
+.txt__header{
+    margin-left: 12%;
+    font-family: var(---fonte-do-header);
+    font-size: 1em;
+}

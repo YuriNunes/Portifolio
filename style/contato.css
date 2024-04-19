@@ -1,0 +1,30 @@
+.contato__container{
+    padding: 12em;
+    background-image: url(/imagens/download.png);
+    background-repeat: no-repeat;
+    background-position: center left;
+    background-color: var(---cor-de-fundo-contato);
+    display: flex;
+    
+}
+
+.ttl__contato{
+    margin-left: 55%;
+    margin-bottom: 10px;
+    margin-top: 18px;
+    font-family: var(---fonte-do-contato);
+    font-size: 2.5em;
+}
+
+.lista__contato{
+    justify-content: space-around;
+}
+
+.link__contato{
+    margin-left: 35%;
+    text-decoration: none;
+    color: black;
+    font-family: var(---fonte-do-contato);
+    font-size: 2em;
+
+}

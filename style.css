@@ -1,0 +1,21 @@
+@import url(./style/header.css);
+@import url(./style/konoha.css);
+@import url(./style/hobbit.css);
+@import url(./style/contato.css);
+
+:root{
+    /*CORES DO PROJETO*/
+    ---cor-de-fundo-header: #c4cbab;
+    ---cor-de-fundo-Konoha: #cc541f;
+    ---cor-de-fundo-hobbit: #948163;
+    ---cor-de-fundo-contato: #a7a7a7;
+
+
+
+
+    /*FONTES DO PROJETO*/
+    ---fonte-do-header: "Josefin Sans", sans-serif;
+    ---fonte-de-konoha: "Caveat", cursive;
+    ---fonte-do-hobbit: "Lugrasimo", cursive;
+    ---fonte-do-contato: "Playfair Display", serif;
+}

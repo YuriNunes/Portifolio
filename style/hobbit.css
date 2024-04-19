@@ -1,0 +1,19 @@
+.hobbit__container{
+    padding: 12em;
+    background-image: url(/imagens/download\ \(40\).png);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-color: var(---cor-de-fundo-hobbit);
+}
+
+.ttl__hobbit{
+    font-size: 2em;
+    font-family: var(---fonte-do-hobbit);
+    margin-left: 25%;
+    margin-bottom: 5px;
+}
+
+.txt__hobbit{
+    font-family: var(---fonte-do-hobbit);   
+    margin-left: 10%;
+}

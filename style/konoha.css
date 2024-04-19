@@ -1,0 +1,18 @@
+.konoha__container{
+    padding: 12em;
+    background-image: url(/imagens/download\ \(26\).png);
+    background-repeat: no-repeat;
+    background-color: var(---cor-de-fundo-Konoha);
+}
+
+.ttl__konoha{
+    margin-left: 50%;
+    font-family: var(---fonte-de-konoha);
+    font-size: 3em;
+}
+
+.txt__konoha{
+    margin-left: 35%;
+    font-family: var(---fonte-de-konoha);
+    font-size: 2em;
+}
